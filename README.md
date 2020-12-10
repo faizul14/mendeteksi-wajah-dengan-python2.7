@@ -1,4 +1,6 @@
 # python2.7-
+ dengan algoritma 
+#
 install modull cv2
 # pip install opencv-contrib-python
 install modul pillow
