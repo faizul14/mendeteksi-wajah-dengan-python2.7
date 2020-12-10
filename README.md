@@ -1,5 +1,4 @@
 # python2.7 @copyright MFP
-machine learning mendeteksi wajah dengan haarcascade algorithm
 #
 install modull cv2
 #
