@@ -6,5 +6,5 @@ install modul pillow
 
 
 
-# detect wajah https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
-# detect mata https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_eye.xml
+# detect wajah https://github.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
+# detect mata https://github.com/opencv/opencv/master/data/haarcascades/haarcascade_eye.xml
