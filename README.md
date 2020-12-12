@@ -2,7 +2,7 @@
 #
 install modull cv2
 #
-pip install opencv-contrib-python'
+pip install opencv-contrib-python
 #
 install modul pillow
 #
